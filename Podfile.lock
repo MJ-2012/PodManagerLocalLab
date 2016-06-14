@@ -1,0 +1,16 @@
+PODS:
+  - download (0.0.1)
+
+DEPENDENCIES:
+  - download (from `LocalLab/download/`)
+
+EXTERNAL SOURCES:
+  download:
+    :path: LocalLab/download/
+
+SPEC CHECKSUMS:
+  download: 4e381a046c0c04260af99010199ea71b45982645
+
+PODFILE CHECKSUM: 6eb31445b51b17c8c61d0d0034b469549aa64f08
+
+COCOAPODS: 1.0.0.beta.2

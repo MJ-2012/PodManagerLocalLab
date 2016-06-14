@@ -1,0 +1,29 @@
+{
+  "name": "download",
+  "version": "0.0.1",
+  "summary": "A short description of download.",
+  "description": "download",
+  "homepage": "https://github.com/AliSoftware/Reusable",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "MJ-2012": "may@dingzai.com"
+  },
+  "social_media_url": "http://twitter.com/aligatr",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0",
+    "tvos": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/AliSoftware/Reusable.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Source",
+    "Source/**/*.{h,m}"
+  ],
+  "frameworks": "download"
+}

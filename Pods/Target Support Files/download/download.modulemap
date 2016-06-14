@@ -1,0 +1,6 @@
+framework module download {
+  umbrella header "download-umbrella.h"
+
+  export *
+  module * { export * }
+}
